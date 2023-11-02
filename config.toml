@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-learn'
+[params]
+    themeVariant = "bscolors"
+    disableMermaid = false
+    disableNextPrev = true
+    disableLandingPageButton = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
