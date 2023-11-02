@@ -1,5 +1,4 @@
 ---
-title: "Getting Started"
-type: index
-weight: 20
+title: "First Project"
+weight: 2
 ---
