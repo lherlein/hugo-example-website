@@ -6,7 +6,7 @@ themesDir = 'themes'
 [params]
     themeVariant = "red"
     disableMermaid = false
-    disableNextPrev = true
+    disableNextPrev = false
     disableLandingPageButton = true
 
 [outputs]

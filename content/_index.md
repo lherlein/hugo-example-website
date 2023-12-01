@@ -1,11 +1,11 @@
 ---
-title: "BrightSign Developer Space"
+title: "Strategy/Tactics Game Design"
 type: index
 chapter: true
 weight: 1
 ---
 
-### BrightSign
-# Developer Space
+### Big Beetle Games
+# working-title
 
-Learn, Develop, Play
+Plan your campaign strategy and watch how your battlefield-level tactical decisions shape your plan's outcome
