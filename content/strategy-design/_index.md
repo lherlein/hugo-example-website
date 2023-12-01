@@ -2,7 +2,7 @@
 title: "Strategy Design"
 type: index
 chapter: true
-weight: 1
+weight: 2
 ---
 
 ### Campaign Strategy
