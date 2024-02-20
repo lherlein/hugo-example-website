@@ -1,6 +1,6 @@
 ---
 title: "BrightSign Developer Blog"
-chapter: false
+chapter: true
 weight: 2
 ---
 
