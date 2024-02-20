@@ -1,16 +1,17 @@
 # bs-dev-space Example
 
-Currently unable to use github actions to host this
+This repository is hosted using my Github actions free website.
 
-## How to run locally
+https://lherlein.github.io/hugo-example-website/
 
-1. Clone into local repo
-2. npm i
-3. Clone the 'learn' theme into the `themes/hugo-theme-learn` directory
-    1. `mkdir themes/hugo-theme-learn`
-    2. `git clone git@github.com:matcornic/hugo-theme-learn.git themes/hugo-theme-learn`
-4. Copy the `theme-bscolors.css` file into the theme
-    1. `cp layouts/css/theme-bscolors.css themes/hugo-theme-learn/static/css`
-5. run `hugo server`
-6. connect on the localhost port that terminal tells you
-    1. most likely `localhost:1313`
+## Host yourself
+
+1. install hugo on you machine
+
+```
+sudo apt install hugo
+```
+
+2. run `hugo server`
+
+3. connect to `localhost:1313/`
